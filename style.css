@@ -1,3 +1,19 @@
 body{
   font-size: 20px;
 }
+button{
+  padding:9px;
+  background-color: rgb(246, 244, 183);
+  border:1px solid rgb(62, 8, 98);
+  margin: 9px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#up{
+  padding:9px;
+  background-color: rgb(183, 246, 199);
+  border:1px solid rgb(62, 8, 98);
+  margin: 9px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
